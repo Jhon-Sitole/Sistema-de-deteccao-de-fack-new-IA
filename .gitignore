@@ -1,0 +1,14 @@
+# Arquivos de dados
+*.csv
+*.xlsx
+*.pkl
+*.log
+
+# Diretórios e arquivos do Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# Diretório de dataset e ambiente virtual
+data/
+.env
